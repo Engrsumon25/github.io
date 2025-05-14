@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>MD Sumon Miah - Resume</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      line-height: 1.6;
+      margin: 0;
+      padding: 0;
+      background: #f4f4f4;
+      color: #333;
+    }
+    .container {
+      width: 90%;
+      max-width: 900px;
+      margin: 0 auto;
+      padding: 20px;
+      background: #fff;
+    }
+    h1, h2 {
+      text-align: center;
+    }
+    section {
+      margin-bottom: 30px;
+    }
+    .contact-info {
+      text-align: center;
+    }
+    .contact-info p {
+      margin: 5px 0;
+    }
+    ul {
+      padding-left: 20px;
+    }
+    .download-link {
+      text-align: center;
+      margin-top: 20px;
+    }
+    .download-link a {
+      background: #007BFF;
+      color: white;
+      padding: 10px 15px;
+      text-decoration: none;
+      border-radius: 5px;
+    }
+    .download-link a:hover {
+      background: #0056b3;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>MD Sumon Miah</h1>
+    <div class="contact-info">
+      <p><strong>Address:</strong> Tipordi, Sonargaon, Narayanganj</p>
+      <p><strong>Email:</strong> engr.sumon25@gmail.com</p>
+      <p><strong>Phone:</strong> +880 1639 305670</p>
+    </div>
+
+    <section>
+      <h2>Career Summary</h2>
+      <p>Engineer with 5.2+ years of experience in the pharmaceutical industry. Skilled in operation, maintenance, and troubleshooting of process and utility equipment, and experienced in equipment qualification (IQ, OQ, PQ), calibration, and automation systems.</p>
+    </section>
+
+    <section>
+      <h2>Employment History</h2>
+      <ul>
+        <li><strong>Senior Officer, Engineering Dept.</strong> (Aug 2022 - Present) - SUN Pharmaceuticals Ltd.</li>
+        <li><strong>Junior Officer, Engineering Dept.</strong> (Nov 2019 - Aug 2022) - Renata Ltd.</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>Education</h2>
+      <ul>
+        <li><strong>Bachelor of Engineering (EEE)</strong>, European University of Bangladesh (CGPA 3.44) - 2022</li>
+        <li><strong>Diploma in Engineering (Electrical)</strong>, SIT (CGPA 3.29) - 2017</li>
+        <li><strong>SSC (Science)</strong>, Soyedpur High School (CGPA 3.75) - 2013</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>Skills</h2>
+      <ul>
+        <li>AutoCAD 2D</li>
+        <li>SAP (MM Module)</li>
+        <li>PLC (GX Works)</li>
+        <li>BMS, HMI, SCADA</li>
+        <li>Microsoft Excel, PowerPoint</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>Training</h2>
+      <ul>
+        <li>PLC & HMI Design - AdvanTEK Engineering Ltd. (2024)</li>
+        <li>AutoCAD 2D & 3D - Eshikhon (2022)</li>
+        <li>Microsoft Excel - 10 Minute School (2021)</li>
+        <li>Industrial Attachment - Atomic Energy Research Establishment (2017)</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>Language Proficiency</h2>
+      <ul>
+        <li><strong>English:</strong> Reading - High, Writing - High, Speaking - Medium</li>
+        <li><strong>Bengali:</strong> Reading - High, Writing - High, Speaking - Medium</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>Hobbies</h2>
+      <ul>
+        <li>Gardening</li>
+        <li>Learning about new inventions</li>
+      </ul>
+    </section>
+
+    <div class="download-link">
+      <a href="RESUME_OF_MD_SUMON.pdf" download>Download My Full CV (PDF)</a>
+    </div>
+  </div>
+</body>
+</html>
